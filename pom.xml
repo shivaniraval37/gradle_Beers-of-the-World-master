@@ -21,4 +21,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <distributionManagement>
+  <snapshotRepository>
+    <id>Gradle_project</id>
+    <url>http://localhost:8081/repository/Shivani/</url>
+  </snapshotRepository>
+</distributionManagement> 
+
 </project>
